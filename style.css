@@ -1,0 +1,43 @@
+.red{
+    background-color: red;
+    text-align: center;
+}
+.green{
+    background-color:green;
+    text-align: center;
+}
+
+
+.blue{
+    background-color:blue;
+    text-align: center;
+    
+}
+.yellow{
+    background-color: yellow;
+    text-align: center;
+}
+.box-red{
+    align-content: space-around;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid black 1px;
+}
+.row{
+    border : solid black 1px;
+}
+
+.col-12 {
+    border : solid black 1px;
+}
+.col-4 {
+    border : solid black 1px;
+}
+.col-6{
+    border : solid black 1px;
+}
+.col-2{
+    border : solid black 1px;
+}
+
